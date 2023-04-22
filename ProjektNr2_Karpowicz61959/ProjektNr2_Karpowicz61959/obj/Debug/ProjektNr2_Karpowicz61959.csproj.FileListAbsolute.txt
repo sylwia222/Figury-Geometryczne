@@ -1,0 +1,12 @@
+C:\Users\Sylwia\Desktop\projekty\ProjektNr2_Karpowicz61959\ProjektNr2_Karpowicz61959\bin\Debug\ProjektNr2_Karpowicz61959.exe.config
+C:\Users\Sylwia\Desktop\projekty\ProjektNr2_Karpowicz61959\ProjektNr2_Karpowicz61959\bin\Debug\ProjektNr2_Karpowicz61959.exe
+C:\Users\Sylwia\Desktop\projekty\ProjektNr2_Karpowicz61959\ProjektNr2_Karpowicz61959\bin\Debug\ProjektNr2_Karpowicz61959.pdb
+C:\Users\Sylwia\Desktop\projekty\ProjektNr2_Karpowicz61959\ProjektNr2_Karpowicz61959\obj\Debug\ProjektNr2_Karpowicz61959.csproj.AssemblyReference.cache
+C:\Users\Sylwia\Desktop\projekty\ProjektNr2_Karpowicz61959\ProjektNr2_Karpowicz61959\obj\Debug\ProjektNr2_Karpowicz61959.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sylwia\Desktop\projekty\ProjektNr2_Karpowicz61959\ProjektNr2_Karpowicz61959\obj\Debug\ProjektNr2_Karpowicz61959.Kokpit_Karpowicz61959.resources
+C:\Users\Sylwia\Desktop\projekty\ProjektNr2_Karpowicz61959\ProjektNr2_Karpowicz61959\obj\Debug\ProjektNr2_Karpowicz61959.Properties.Resources.resources
+C:\Users\Sylwia\Desktop\projekty\ProjektNr2_Karpowicz61959\ProjektNr2_Karpowicz61959\obj\Debug\ProjektNr2_Karpowicz61959.csproj.GenerateResource.cache
+C:\Users\Sylwia\Desktop\projekty\ProjektNr2_Karpowicz61959\ProjektNr2_Karpowicz61959\obj\Debug\ProjektNr2_Karpowicz61959.csproj.CoreCompileInputs.cache
+C:\Users\Sylwia\Desktop\projekty\ProjektNr2_Karpowicz61959\ProjektNr2_Karpowicz61959\obj\Debug\ProjektNr2_Karpowicz61959.exe
+C:\Users\Sylwia\Desktop\projekty\ProjektNr2_Karpowicz61959\ProjektNr2_Karpowicz61959\obj\Debug\ProjektNr2_Karpowicz61959.pdb
+C:\Users\Sylwia\Desktop\projekty\ProjektNr2_Karpowicz61959\ProjektNr2_Karpowicz61959\obj\Debug\ProjektNr2_Karpowicz61959.LaboratoriumNr2_Karpowicz61959.resources
